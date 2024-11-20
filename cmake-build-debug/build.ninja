@@ -57,6 +57,14 @@ build CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/main.cpp.o: CXX_COMPILER__P
   TARGET_COMPILE_PDB = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/
   TARGET_PDB = Proyecto_2_Sistemas_Operativos_.pdb
 
+build CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/ColaMonitor.cpp.o: CXX_COMPILER__Proyecto_2_Sistemas_Operativos__unscanned_Debug /home/gustavo/CLionProjects/Proyecto-2-Sistemas-Operativos$ /ColaMonitor.cpp || cmake_object_order_depends_target_Proyecto_2_Sistemas_Operativos_
+  DEP_FILE = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/ColaMonitor.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir
+  OBJECT_FILE_DIR = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir
+  TARGET_COMPILE_PDB = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/
+  TARGET_PDB = Proyecto_2_Sistemas_Operativos_.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Proyecto_2_Sistemas_Operativos_
@@ -65,7 +73,7 @@ build CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/main.cpp.o: CXX_COMPILER__P
 #############################################
 # Link the executable Proyecto_2_Sistemas_Operativos_
 
-build Proyecto_2_Sistemas_Operativos_: CXX_EXECUTABLE_LINKER__Proyecto_2_Sistemas_Operativos__Debug CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/main.cpp.o
+build Proyecto_2_Sistemas_Operativos_: CXX_EXECUTABLE_LINKER__Proyecto_2_Sistemas_Operativos__Debug CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/main.cpp.o CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir/ColaMonitor.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Proyecto_2_Sistemas_Operativos_.dir
   POST_BUILD = :

@@ -3,4 +3,7 @@ project(Proyecto_2_Sistemas_Operativos_)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Proyecto_2_Sistemas_Operativos_ main.cpp)
+add_executable(Proyecto_2_Sistemas_Operativos_ main.cpp
+        ColaMonitor.cpp
+        ColaMonitor.h
+)
