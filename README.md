@@ -18,15 +18,15 @@ Navega al directorio del proyecto.
 ```
 cd Proyecto-2-Sistemas-Operativos
 ```
-Para la Parte 1 (cola circular) ir al directorio respectivo y usar gcc:
+Para la Parte 1 (cola circular) ir al directorio respectivo y usar g++:
 
-    gcc -std=c11 -pthread ColaMonitor.c main.c -o Tarea2
+    g++ -std=c++17 -pthread main.cpp ColaMonitor.cpp PyC.cpp -o Parte1
 
 
 
 Para ejecutar el programa, simplemente ejecuta el archivo compilado:
 ```
-./Tarea2
+./Parte1
 ```
 Para la Parte 2 (memoria virtual) ir al directorio respectivo y usar gcc:
 
