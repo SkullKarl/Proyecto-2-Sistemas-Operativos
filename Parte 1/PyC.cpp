@@ -1,4 +1,11 @@
+#include <iostream>
+#include <thread>
+#include <vector>
+#include <condition_variable>
+#include <mutex>
+#include <atomic>
 #include <fstream>
+#include <unistd.h>
 #include "ColaMonitor.h"
 #include "PyC.h"
 

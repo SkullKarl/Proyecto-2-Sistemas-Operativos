@@ -3,7 +3,7 @@ En los directorios respectivos ejecutar:
 
 En parte 1:
 
-gcc -std=c11 -pthread ColaMonitor.c main.c -o Parte1
+g++ -std=c++17 -pthread main.cpp ColaMonitor.cpp PyC.cpp -o Parte1
 
 ./Parte 1
 
