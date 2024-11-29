@@ -7,22 +7,7 @@
 #include <fstream>
 #include <unistd.h>
 #include "ColaMonitor.h"
-
-void productor(ColaMonitor &cola, int id, int num_items) {
-    for (int i = 0; i < num_items; ++i) {
-        cola.agregar(i + id * 1000);
-    }
-}
-
-void consumidor(ColaMonitor &cola, std::atomic<bool> &producido, int tiempo_espera) {
-    while (producido || !cola.esta_vacia()) {
-        if (!producido && cola.esta_vacia()) {
-            std::this_thread::sleep_for(std::chrono::seconds(tiempo_espera));
-            break;
-        }
-        cola.extraer();
-    }
-}
+#include "PyC.h"
 
 int main(int argc, char *argv[]) {
     int num_productores = 1, num_consumidores = 1, tam_inicial = 10, tiempo_espera = 1;

@@ -1,3 +1,7 @@
+#include <vector>
+#include <condition_variable>
+#include <mutex>
+#include <fstream>
 #include "ColaMonitor.h"
 
 ColaMonitor::ColaMonitor(size_t tam_inicial)
