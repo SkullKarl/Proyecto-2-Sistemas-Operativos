@@ -1,0 +1,227 @@
+Inicializando la cola con tamaño 10.
+Elemento producido: 0. Tamaño actual: 1.
+Elemento producido: 1. Tamaño actual: 2.
+Elemento producido: 2. Tamaño actual: 3.
+Elemento producido: 3. Tamaño actual: 4.
+Elemento producido: 4. Tamaño actual: 5.
+Elemento producido: 5. Tamaño actual: 6.
+Elemento producido: 6. Tamaño actual: 7.
+Elemento producido: 7. Tamaño actual: 8.
+Elemento producido: 8. Tamaño actual: 9.
+Cambio de tamaño de la cola a 20 elementos.
+Elemento producido: 9. Tamaño actual: 10.
+Elemento producido: 10. Tamaño actual: 11.
+Elemento producido: 11. Tamaño actual: 12.
+Elemento producido: 12. Tamaño actual: 13.
+Elemento producido: 13. Tamaño actual: 14.
+Elemento producido: 14. Tamaño actual: 15.
+Elemento producido: 15. Tamaño actual: 16.
+Elemento producido: 16. Tamaño actual: 17.
+Elemento producido: 17. Tamaño actual: 18.
+Elemento producido: 18. Tamaño actual: 19.
+Cambio de tamaño de la cola a 40 elementos.
+Elemento producido: 19. Tamaño actual: 20.
+Elemento producido: 20. Tamaño actual: 21.
+Elemento consumido: 0. Tamaño actual: 20.
+Elemento consumido: 1. Tamaño actual: 19.
+Elemento consumido: 2. Tamaño actual: 18.
+Elemento consumido: 3. Tamaño actual: 17.
+Elemento consumido: 4. Tamaño actual: 16.
+Elemento consumido: 5. Tamaño actual: 15.
+Elemento consumido: 6. Tamaño actual: 14.
+Elemento consumido: 7. Tamaño actual: 13.
+Elemento consumido: 8. Tamaño actual: 12.
+Elemento consumido: 9. Tamaño actual: 11.
+Cambio de tamaño de la cola a 20 elementos.
+Elemento consumido: 10. Tamaño actual: 10.
+Elemento consumido: 11. Tamaño actual: 9.
+Elemento consumido: 12. Tamaño actual: 8.
+Elemento consumido: 13. Tamaño actual: 7.
+Elemento consumido: 14. Tamaño actual: 6.
+Cambio de tamaño de la cola a 10 elementos.
+Elemento consumido: 15. Tamaño actual: 5.
+Elemento consumido: 16. Tamaño actual: 4.
+Elemento consumido: 17. Tamaño actual: 3.
+Cambio de tamaño de la cola a 5 elementos.
+Elemento consumido: 18. Tamaño actual: 2.
+Cambio de tamaño de la cola a 2 elementos.
+Elemento consumido: 19. Tamaño actual: 1.
+Elemento consumido: 20. Tamaño actual: 0.
+Elemento producido: 21. Tamaño actual: 1.
+Cambio de tamaño de la cola a 4 elementos.
+Elemento producido: 22. Tamaño actual: 2.
+Elemento producido: 23. Tamaño actual: 3.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento producido: 24. Tamaño actual: 4.
+Elemento producido: 25. Tamaño actual: 5.
+Elemento producido: 26. Tamaño actual: 6.
+Elemento producido: 27. Tamaño actual: 7.
+Cambio de tamaño de la cola a 16 elementos.
+Elemento producido: 28. Tamaño actual: 8.
+Elemento producido: 29. Tamaño actual: 9.
+Elemento producido: 30. Tamaño actual: 10.
+Elemento producido: 31. Tamaño actual: 11.
+Elemento producido: 32. Tamaño actual: 12.
+Elemento consumido: 21. Tamaño actual: 11.
+Elemento consumido: 22. Tamaño actual: 10.
+Elemento consumido: 23. Tamaño actual: 9.
+Elemento consumido: 24. Tamaño actual: 8.
+Elemento consumido: 25. Tamaño actual: 7.
+Elemento consumido: 26. Tamaño actual: 6.
+Elemento consumido: 27. Tamaño actual: 5.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento consumido: 28. Tamaño actual: 4.
+Elemento consumido: 29. Tamaño actual: 3.
+Cambio de tamaño de la cola a 4 elementos.
+Elemento consumido: 30. Tamaño actual: 2.
+Elemento producido: 33. Tamaño actual: 3.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento producido: 34. Tamaño actual: 4.
+Elemento producido: 35. Tamaño actual: 5.
+Elemento producido: 36. Tamaño actual: 6.
+Elemento producido: 37. Tamaño actual: 7.
+Cambio de tamaño de la cola a 16 elementos.
+Elemento producido: 38. Tamaño actual: 8.
+Elemento producido: 39. Tamaño actual: 9.
+Elemento producido: 40. Tamaño actual: 10.
+Elemento producido: 41. Tamaño actual: 11.
+Elemento producido: 42. Tamaño actual: 12.
+Elemento consumido: 31. Tamaño actual: 11.
+Elemento consumido: 32. Tamaño actual: 10.
+Elemento consumido: 33. Tamaño actual: 9.
+Elemento consumido: 34. Tamaño actual: 8.
+Elemento consumido: 35. Tamaño actual: 7.
+Elemento consumido: 36. Tamaño actual: 6.
+Elemento consumido: 37. Tamaño actual: 5.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento consumido: 38. Tamaño actual: 4.
+Elemento consumido: 39. Tamaño actual: 3.
+Cambio de tamaño de la cola a 4 elementos.
+Elemento consumido: 40. Tamaño actual: 2.
+Cambio de tamaño de la cola a 2 elementos.
+Elemento consumido: 41. Tamaño actual: 1.
+Elemento consumido: 42. Tamaño actual: 0.
+Elemento producido: 43. Tamaño actual: 1.
+Cambio de tamaño de la cola a 4 elementos.
+Elemento producido: 44. Tamaño actual: 2.
+Elemento producido: 45. Tamaño actual: 3.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento producido: 46. Tamaño actual: 4.
+Elemento producido: 47. Tamaño actual: 5.
+Elemento producido: 48. Tamaño actual: 6.
+Elemento producido: 49. Tamaño actual: 7.
+Cambio de tamaño de la cola a 16 elementos.
+Elemento producido: 50. Tamaño actual: 8.
+Elemento producido: 51. Tamaño actual: 9.
+Elemento producido: 52. Tamaño actual: 10.
+Elemento producido: 53. Tamaño actual: 11.
+Elemento producido: 54. Tamaño actual: 12.
+Elemento producido: 55. Tamaño actual: 13.
+Elemento consumido: 43. Tamaño actual: 12.
+Elemento producido: 56. Tamaño actual: 13.
+Elemento producido: 57. Tamaño actual: 14.
+Elemento producido: 58. Tamaño actual: 15.
+Cambio de tamaño de la cola a 32 elementos.
+Elemento producido: 59. Tamaño actual: 16.
+Elemento producido: 60. Tamaño actual: 17.
+Elemento producido: 61. Tamaño actual: 18.
+Elemento producido: 62. Tamaño actual: 19.
+Elemento producido: 63. Tamaño actual: 20.
+Elemento producido: 64. Tamaño actual: 21.
+Elemento producido: 65. Tamaño actual: 22.
+Elemento producido: 66. Tamaño actual: 23.
+Elemento producido: 67. Tamaño actual: 24.
+Elemento producido: 68. Tamaño actual: 25.
+Elemento producido: 69. Tamaño actual: 26.
+Elemento producido: 70. Tamaño actual: 27.
+Elemento producido: 71. Tamaño actual: 28.
+Elemento producido: 72. Tamaño actual: 29.
+Elemento producido: 73. Tamaño actual: 30.
+Elemento producido: 74. Tamaño actual: 31.
+Cambio de tamaño de la cola a 64 elementos.
+Elemento producido: 75. Tamaño actual: 32.
+Elemento producido: 76. Tamaño actual: 33.
+Elemento producido: 77. Tamaño actual: 34.
+Elemento producido: 78. Tamaño actual: 35.
+Elemento producido: 79. Tamaño actual: 36.
+Elemento producido: 80. Tamaño actual: 37.
+Elemento producido: 81. Tamaño actual: 38.
+Elemento producido: 82. Tamaño actual: 39.
+Elemento producido: 83. Tamaño actual: 40.
+Elemento producido: 84. Tamaño actual: 41.
+Elemento producido: 85. Tamaño actual: 42.
+Elemento producido: 86. Tamaño actual: 43.
+Elemento producido: 87. Tamaño actual: 44.
+Elemento producido: 88. Tamaño actual: 45.
+Elemento producido: 89. Tamaño actual: 46.
+Elemento producido: 90. Tamaño actual: 47.
+Elemento producido: 91. Tamaño actual: 48.
+Elemento producido: 92. Tamaño actual: 49.
+Elemento producido: 93. Tamaño actual: 50.
+Elemento producido: 94. Tamaño actual: 51.
+Elemento producido: 95. Tamaño actual: 52.
+Elemento producido: 96. Tamaño actual: 53.
+Elemento producido: 97. Tamaño actual: 54.
+Elemento producido: 98. Tamaño actual: 55.
+Elemento producido: 99. Tamaño actual: 56.
+Elemento consumido: 44. Tamaño actual: 55.
+Elemento consumido: 45. Tamaño actual: 54.
+Elemento consumido: 46. Tamaño actual: 53.
+Elemento consumido: 47. Tamaño actual: 52.
+Elemento consumido: 48. Tamaño actual: 51.
+Elemento consumido: 49. Tamaño actual: 50.
+Elemento consumido: 50. Tamaño actual: 49.
+Elemento consumido: 51. Tamaño actual: 48.
+Elemento consumido: 52. Tamaño actual: 47.
+Elemento consumido: 53. Tamaño actual: 46.
+Elemento consumido: 54. Tamaño actual: 45.
+Elemento consumido: 55. Tamaño actual: 44.
+Elemento consumido: 56. Tamaño actual: 43.
+Elemento consumido: 57. Tamaño actual: 42.
+Elemento consumido: 58. Tamaño actual: 41.
+Elemento consumido: 59. Tamaño actual: 40.
+Elemento consumido: 60. Tamaño actual: 39.
+Elemento consumido: 61. Tamaño actual: 38.
+Elemento consumido: 62. Tamaño actual: 37.
+Elemento consumido: 63. Tamaño actual: 36.
+Elemento consumido: 64. Tamaño actual: 35.
+Elemento consumido: 65. Tamaño actual: 34.
+Elemento consumido: 66. Tamaño actual: 33.
+Elemento consumido: 67. Tamaño actual: 32.
+Elemento consumido: 68. Tamaño actual: 31.
+Elemento consumido: 69. Tamaño actual: 30.
+Elemento consumido: 70. Tamaño actual: 29.
+Elemento consumido: 71. Tamaño actual: 28.
+Elemento consumido: 72. Tamaño actual: 27.
+Elemento consumido: 73. Tamaño actual: 26.
+Elemento consumido: 74. Tamaño actual: 25.
+Elemento consumido: 75. Tamaño actual: 24.
+Elemento consumido: 76. Tamaño actual: 23.
+Elemento consumido: 77. Tamaño actual: 22.
+Elemento consumido: 78. Tamaño actual: 21.
+Elemento consumido: 79. Tamaño actual: 20.
+Elemento consumido: 80. Tamaño actual: 19.
+Elemento consumido: 81. Tamaño actual: 18.
+Elemento consumido: 82. Tamaño actual: 17.
+Cambio de tamaño de la cola a 32 elementos.
+Elemento consumido: 83. Tamaño actual: 16.
+Elemento consumido: 84. Tamaño actual: 15.
+Elemento consumido: 85. Tamaño actual: 14.
+Elemento consumido: 86. Tamaño actual: 13.
+Elemento consumido: 87. Tamaño actual: 12.
+Elemento consumido: 88. Tamaño actual: 11.
+Elemento consumido: 89. Tamaño actual: 10.
+Elemento consumido: 90. Tamaño actual: 9.
+Cambio de tamaño de la cola a 16 elementos.
+Elemento consumido: 91. Tamaño actual: 8.
+Elemento consumido: 92. Tamaño actual: 7.
+Elemento consumido: 93. Tamaño actual: 6.
+Elemento consumido: 94. Tamaño actual: 5.
+Cambio de tamaño de la cola a 8 elementos.
+Elemento consumido: 95. Tamaño actual: 4.
+Elemento consumido: 96. Tamaño actual: 3.
+Cambio de tamaño de la cola a 4 elementos.
+Elemento consumido: 97. Tamaño actual: 2.
+Cambio de tamaño de la cola a 2 elementos.
+Elemento consumido: 98. Tamaño actual: 1.
+Elemento consumido: 99. Tamaño actual: 0.
