@@ -1,10 +1,40 @@
-### Compilación del Proyecto
-En los directorios respectivos ejecutar:
+# Proyecto Sistemas Operativos
 
-En parte 1:
+Este proyecto consta de dos partes un simulador que maneje una cola circular de tamaño dinámico compartida entre múltiples hebras y otro simulador de memoria virtual que permite evaluar diferentes algoritmos de reemplazo de páginas. 
 
-g++ -std=c++17 -pthread main.cpp ColaMonitor.cpp PyC.cpp -o Parte1
+## Características
+- Cola circular de tamaño dinámico.
+- Múltiples hebras productoras y consumidoras.
+- Monitor para manejo de concurrencia.
+- Algoritmos de reemplazo de páginas (FIFO, LRU, CLOCK y OPT)
+- Conteo de fallos de página
 
-./Parte 1
+## Compilación
+Clona el repositorio en tu máquina local.
+```
+git clone https://github.com/SkullKarl/Proyecto-2-Sistemas-Operativos.git
+```
+Navega al directorio del proyecto.
+```
+cd Proyecto-2-Sistemas-Operativos
+```
+Para la Parte 1 (cola circular) ir al directorio respectivo y usar gcc:
 
-En parte 2:
+    gcc -std=c11 -pthread ColaMonitor.c main.c -o Tarea2
+
+
+
+Para ejecutar el programa, simplemente ejecuta el archivo compilado:
+```
+./Tarea2
+```
+Para la Parte 2 (memoria virtual) ir al directorio respectivo y usar gcc:
+
+    gcc -o mvirtual mvirtual.c
+
+
+
+Para ejecutar el programa, simplemente ejecuta el archivo compilado:
+```
+./mvirtual
+```
